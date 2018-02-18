@@ -1,0 +1,9 @@
+Clipping - create path around the object
+
+Compositing - Remove the old man in the middle and rearrange the people togethers
+
+Invi - Crop the suit from 101-OUTERWEAR-420-XS2PO-02-GREY-A and crop the neck position from the 101-OUTERWEAR-420-XS2PO-03-GREY-IA and place the neck position on the suit 
+
+Masking - Crop the object using channel masking technique
+
+Retouching - Remove blemishes,stray hair and black spots(if any)
